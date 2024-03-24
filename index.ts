@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 import inquirer from "inquirer";
 // await means wait for line 3 take input from user....[] this is array {message} is a object{message is a key which will appeare on screen for user,type:what will be the datatype , name is a variable to save the input}
